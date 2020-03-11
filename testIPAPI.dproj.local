@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/29 00:03:56.000.010,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/17 18:36:45.000.343,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/15 21:46:40.000.961,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/16 23:30:40.000.453,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/18 11:36:56.000.257,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/14 10:42:09.000.659,=C:\Users\James\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/04/15 04:26:52.000.484,=C:\Users\James\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/04/15 04:26:53.000.529,=C:\Users\James\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2019/04/16 23:27:05.000.201,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/21 12:07:50.000.700,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/21 10:43:42.000.842,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/21 10:44:53.000.491,D:\test\IP_API_IP地址查询\Unit1.pas=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/21 10:44:53.000.491,D:\test\IP_API_IP地址查询\Unit1.dfm=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/21 10:44:59.000.203,D:\test\IP_API_IP地址查询\testIPAPI.dproj=C:\Users\James\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
